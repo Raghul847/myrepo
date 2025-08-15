@@ -22,3 +22,5 @@ The data is useful for testing supply chain analytics models, including correlat
 For questions or collaboration, please contact:
 
 Email: 23f2002365@ds.study.iitm.ac.in
+![chart.png](<img width="510" height="510" alt="chart (3)" src="https://github.com/user-attachments/assets/06b2c758-5dd1-4494-84cb-1aaeffc226ed" />
+)
